@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\frontend\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\frontend\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\backend\\client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\backend\\client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|c:\\users\\shivani\\source\\repos\\responsibleaimoderationtool\\responsibleaimoderationtool\\project_migration_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D50CA954-C921-4B3A-B9C9-B96B6B0C301C}|ResponsibleAIModerationTool\\ResponsibleAIModerationTool.esproj|solutionrelative:responsibleaimoderationtool\\project_migration_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\package.json",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\package.json",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\package.json",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T16:00:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\frontend\\styles.css",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\frontend\\styles.css",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\frontend\\styles.css",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\frontend\\styles.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-12T15:51:28.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\package-lock.json",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\package-lock.json",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\package-lock.json",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T16:00:46.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\frontend\\scripts.js",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\frontend\\scripts.js",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\frontend\\scripts.js",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\frontend\\scripts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T15:51:15.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\frontend\\index.html",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\frontend\\index.html",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\frontend\\index.html",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\frontend\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-12T15:50:45.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "client.js",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\backend\\client.js",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\backend\\client.js",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\backend\\client.js",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\backend\\client.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T15:38:26.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\backend\\server.js",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\backend\\server.js",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\backend\\server.js",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\backend\\server.js",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T15:37:39.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\README.md",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\README.md",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\README.md",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-12T15:35:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PROJECT_MIGRATION_LOG.txt",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\PROJECT_MIGRATION_LOG.txt",
+              "RelativeDocumentMoniker": "ResponsibleAIModerationTool\\PROJECT_MIGRATION_LOG.txt",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\ResponsibleAIModerationTool\\ResponsibleAIModerationTool\\PROJECT_MIGRATION_LOG.txt",
+              "RelativeToolTip": "ResponsibleAIModerationTool\\PROJECT_MIGRATION_LOG.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-12T15:35:03.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

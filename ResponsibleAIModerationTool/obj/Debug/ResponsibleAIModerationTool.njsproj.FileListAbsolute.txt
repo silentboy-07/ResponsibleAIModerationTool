@@ -1,0 +1,3 @@
+C:\Users\Shivani\source\repos\ResponsibleAIModerationTool\ResponsibleAIModerationTool\obj\Debug\ResponsibleAIModerationTool.njsproj.AssemblyReference.cache
+C:\Users\Shivani\source\repos\ResponsibleAIModerationTool\ResponsibleAIModerationTool\obj\Debug\ResponsibleAIModerationTool.njsproj.CoreCompileInputs.cache
+C:\Users\Shivani\source\repos\ResponsibleAIModerationTool\ResponsibleAIModerationTool\bin\Microsoft.NodejsTools.WebRole.dll
