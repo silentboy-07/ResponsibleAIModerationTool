@@ -1,0 +1,2 @@
+Responsible AI Moderation Tool
+Harnessing the power of the Gemini API, this AI-driven moderation tool ensures safe, responsible, and real-time content moderation. Designed with precision, it filters harmful or inappropriate material efficiently, promoting healthier online communities. Submitted for the Google for Developers competition, this innovative project stands at the forefront of ethical AI moderation.
